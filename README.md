@@ -34,7 +34,7 @@ For **training** FuseLIP, please gather the following datasets:
 - [HQ-Edit](https://huggingface.co/datasets/UCSC-VLAA/HQ-Edit): will be downloaded automatically when starting training
 - [Visual Genome (VG)](https://homes.cs.washington.edu/~ranjay/visualgenome/api.html): obtain the following files
   - images
-  - [region descriptions](https://homes.cs.washington.edu/~ranjay/visualgenome/data/dataset/region_descriptions.json.zip)
+  - [region descriptions](https://drive.google.com/drive/folders/1ibqHGht-ADPH0xdsMNjJfDLKjkWgNe3S?usp=sharing)
   - [question answers](https://homes.cs.washington.edu/~ranjay/visualgenome/data/dataset/question_answers.json.zip)
 
 For **evaluation**, please download the following datasets additionally:
